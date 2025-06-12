@@ -90,7 +90,7 @@ body{
     justify-content: center;
 }
 
-.parametro-senha__botoes{
+.parametro-senha__botao{
     background-color: var(--fundo-texto);
     color: var(--branco);
     border: 2px solid var(--borda);
