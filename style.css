@@ -138,7 +138,7 @@ body{
     background-color: #1ef828;
 }
 
-.parametro-senha-textos{
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
