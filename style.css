@@ -118,7 +118,7 @@ body{
     width: 100%;
 }
 
-.foca{
+.forca{
     height: 30px;
     position: relative;
     bottom: 30px;
@@ -138,7 +138,10 @@ body{
     background-color: #1ef828;
 }
 
-
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
