@@ -2,7 +2,7 @@
 
 :root{
     --branco: rgb(0, 0, 0);
-    --cor-de-fundo: #495a9c;
+    --cor-de-fundo: #4e63bb;
     --fundo-senha: #4395E0;
     --fundo-texto:#4395E0;
     --borda: #000000;
@@ -135,7 +135,7 @@ body{
 }
 .forte{
     width: 100%;
-    background-color: #57b35b;
+    background-color: #5dca62;
 }
 
 .parametro-senha-textos {
